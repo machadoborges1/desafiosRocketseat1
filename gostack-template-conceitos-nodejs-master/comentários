@@ -1,0 +1,7 @@
+clonado o template de https://github.com/rocketseat-education/gostack-template-conceitos-nodejs
+
+yarn 
+  após baixar, pois não vem os modules de node
+
+yarn test    // vai devolver erro, pois as rotas ainda não foram criadas 
+
